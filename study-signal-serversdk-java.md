@@ -27,7 +27,7 @@ tags:
   笔者体验环境：
   - windows10 x64
   - IntelliJ IDEA 2018.3.2 x64 
-  - [sdk](http://download.agora.io/sdk/release/Agora_Signaling_Server_SDK_Java_1_4_0_beta.zip)
+  - [Agora_Signaling_Server_SDK_Java_1_4_0_beta](http://download.agora.io/sdk/release/Agora_Signaling_Server_SDK_Java_1_4_0_beta.zip)
   - [jdk1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
   
