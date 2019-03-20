@@ -230,8 +230,7 @@ tags:
           尝试发频道消息，发现群聊频道模式完全没问题。
           ![](study-signal-serversdk-java/20190316203109.png)
 
-
-  3. 小结
+  > 小结
 
       启动demo没有什么难度，不过demo里的业务怎么样，需要大家花些心思来学习。
 
@@ -331,7 +330,7 @@ tags:
 
 ### model中定义了一些数据类和类方法，比较容易理解
 
-### main/java/mainclass/WorkerThread.java
+### 文件 main/java/mainclass/WorkerThread.java
 
   这里定义了一个线程类，继承Runable
 
